@@ -3,17 +3,17 @@ Instalação de selenium utilizando Node.JS
 
 ## Instalar/Baixar
 
-Selenium standalone
+### Selenium standalone
 
 Link: http://www.seleniumhq.org/download/
 
 Comando para iniciar: java -jar {version}.jar
 
-Deve iniciar o standalone antes de rodar os teste localmente.
+Deve iniciar o standalone antes de rodar os testes localmente.
 
+### Node
 
-Node:
+Link: https://nodejs.org/en/download/
 
-
-
+Instalar 
 
