@@ -49,8 +49,9 @@ Cada projeto deve ter seu conjunto de JS de teste.
 
 Documentação: http://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/index.html
 
-Ex:
+Ex:C:\selenium\modelo
 
+modelo.js
 ```
 var webdriver = require('selenium-webdriver'),
 	By = webdriver.By,
