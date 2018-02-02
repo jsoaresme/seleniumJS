@@ -3,6 +3,10 @@ Instalação de selenium utilizando Node.JS
 
 ## Instalar/Baixar
 
+### Java JRE
+
+Link: https://www.java.com/pt_BR/download/
+
 ### Selenium standalone
 
 Link: http://www.seleniumhq.org/download/
